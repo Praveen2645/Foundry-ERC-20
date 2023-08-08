@@ -1,0 +1,2 @@
+forge init
+forge install OpenZeppelin/openzeppelin-contracts --no-commit
